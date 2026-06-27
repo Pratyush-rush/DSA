@@ -12,6 +12,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Pratyush-rush/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Pratyush-rush/DSA/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Pratyush-rush/DSA/tree/master/0141-linked-list-cycle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pratyush-rush/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -24,6 +25,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratyush-rush/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Pratyush-rush/DSA/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/Pratyush-rush/DSA/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -34,4 +36,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratyush-rush/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Pratyush-rush/DSA/tree/master/0076-minimum-window-substring) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Pratyush-rush/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
