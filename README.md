@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Pratyush-rush/DSA/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/Pratyush-rush/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Pratyush-rush/DSA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Pratyush-rush/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pratyush-rush/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -61,4 +62,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Pratyush-rush/DSA/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Pratyush-rush/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Pratyush-rush/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
