@@ -65,6 +65,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Pratyush-rush/DSA/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/Pratyush-rush/DSA/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
