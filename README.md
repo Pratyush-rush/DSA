@@ -10,6 +10,7 @@
 | [0152-maximum-product-subarray](https://github.com/Pratyush-rush/DSA/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Pratyush-rush/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/Pratyush-rush/DSA/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/Pratyush-rush/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pratyush-rush/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pratyush-rush/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pratyush-rush/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -78,6 +79,7 @@
 | [0053-maximum-subarray](https://github.com/Pratyush-rush/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Pratyush-rush/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Pratyush-rush/DSA/tree/master/0152-maximum-product-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/Pratyush-rush/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pratyush-rush/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pratyush-rush/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Prefix Sum
