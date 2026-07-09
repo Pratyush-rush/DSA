@@ -20,13 +20,5 @@ class Solution {
         Arrays.fill(dp,-1);
 
         return climb(cost,s);
-
-
-
-
-
-
-
-        
-    }
+}
 }
