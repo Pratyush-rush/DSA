@@ -45,6 +45,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratyush-rush/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Pratyush-rush/DSA/tree/master/0076-minimum-window-substring) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratyush-rush/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,4 +102,16 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pratyush-rush/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratyush-rush/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratyush-rush/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratyush-rush/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
