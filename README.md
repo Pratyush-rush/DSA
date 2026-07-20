@@ -14,6 +14,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Pratyush-rush/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pratyush-rush/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pratyush-rush/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1260-shift-2d-grid](https://github.com/Pratyush-rush/DSA/tree/master/1260-shift-2d-grid) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pratyush-rush/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Pratyush-rush/DSA/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/Pratyush-rush/DSA/tree/master/1260-shift-2d-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratyush-rush/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Pratyush-rush/DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
