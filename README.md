@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/Pratyush-rush/DSA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Pratyush-rush/DSA/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Pratyush-rush/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0525-contiguous-array](https://github.com/Pratyush-rush/DSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Pratyush-rush/DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pratyush-rush/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pratyush-rush/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -43,6 +44,7 @@
 | [0141-linked-list-cycle](https://github.com/Pratyush-rush/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pratyush-rush/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Pratyush-rush/DSA/tree/master/0202-happy-number) |
+| [0525-contiguous-array](https://github.com/Pratyush-rush/DSA/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pratyush-rush/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
@@ -95,6 +97,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Pratyush-rush/DSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Pratyush-rush/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pratyush-rush/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Memoization
