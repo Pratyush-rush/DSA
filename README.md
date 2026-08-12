@@ -16,6 +16,7 @@
 | [0525-contiguous-array](https://github.com/Pratyush-rush/DSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Pratyush-rush/DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pratyush-rush/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/Pratyush-rush/DSA/tree/master/0860-lemonade-change) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pratyush-rush/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pratyush-rush/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pratyush-rush/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -133,6 +134,7 @@
 | [0055-jump-game](https://github.com/Pratyush-rush/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pratyush-rush/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Pratyush-rush/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Pratyush-rush/DSA/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratyush-rush/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
