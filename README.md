@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/Pratyush-rush/DSA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Pratyush-rush/DSA/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/Pratyush-rush/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Pratyush-rush/DSA/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/Pratyush-rush/DSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Pratyush-rush/DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pratyush-rush/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -28,6 +29,7 @@
 | [0202-happy-number](https://github.com/Pratyush-rush/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Pratyush-rush/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Pratyush-rush/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/Pratyush-rush/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Pratyush-rush/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pratyush-rush/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -35,6 +37,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Pratyush-rush/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Pratyush-rush/DSA/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Pratyush-rush/DSA/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pratyush-rush/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -123,6 +126,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Pratyush-rush/DSA/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratyush-rush/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -132,4 +136,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Pratyush-rush/DSA/tree/master/1260-shift-2d-grid) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Pratyush-rush/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
