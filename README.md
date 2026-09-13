@@ -19,6 +19,7 @@
 | [0860-lemonade-change](https://github.com/Pratyush-rush/DSA/tree/master/0860-lemonade-change) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pratyush-rush/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pratyush-rush/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Pratyush-rush/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pratyush-rush/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1260-shift-2d-grid](https://github.com/Pratyush-rush/DSA/tree/master/1260-shift-2d-grid) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pratyush-rush/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratyush-rush/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Pratyush-rush/DSA/tree/master/0076-minimum-window-substring) |
+| [1004-max-consecutive-ones-iii](https://github.com/Pratyush-rush/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Pratyush-rush/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Pratyush-rush/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/Pratyush-rush/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +114,7 @@
 | [0525-contiguous-array](https://github.com/Pratyush-rush/DSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Pratyush-rush/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pratyush-rush/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Pratyush-rush/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Memoization
 |  |
 | ------- |
