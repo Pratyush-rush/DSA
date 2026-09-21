@@ -171,4 +171,12 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pratyush-rush/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Pratyush-rush/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Pratyush-rush/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
